@@ -1,0 +1,140 @@
+body{
+  margin: 0px;
+  background-image: linear-gradient(#f3fffd, #dcfffa);
+
+  
+}
+.Home{
+  background-image: url(ph2.jpg);
+  height: 610px;
+
+}
+.pro{
+  margin-left: 70px;
+  font-style: italic;
+  display: flex;
+  font-size: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 25px 100px;
+  padding: 0;
+  overflow: hidden;
+  font-size: 25px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  color: palevioletred;
+  padding: 0px 48px;  
+  border: 0px solid white;
+  background-color: white;
+}
+li a:hover{
+  background-color: palevioletred;
+  color: black;
+
+}
+.name{
+ 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:start;
+  padding: 70px;
+  
+}
+#h33 ,#h55, #h66, #h22{
+  margin-bottom: 5px;
+  margin-top: 5px;  
+  
+}
+#h22{
+  font-size: 30px; 
+}
+.h11{ 
+    display: flex;
+    font-size: 30px; 
+    margin: 0px;
+}
+#h66{
+  color: palevioletred;
+  padding: 0px 10px;
+}
+#email{
+  margin: 10px 0px;
+  width: 300px;
+  height: 25px;
+  border: 3px solid palevioletred;
+  border-radius: 20px;
+}
+#sub{
+  margin: 10px 0px;
+  width: 70px;
+  height: 25px;
+  border: 1px solid palevioletred;
+  border-radius: 20px;
+  background-color:palevioletred;
+}
+#About{
+  display: flex;
+  background-image: linear-gradient(#f3fffd, #dcfffa);
+  height: 500px;
+
+} 
+#img{
+  margin-left: 180px;
+  width: 400px;
+  height: 500px;
+}
+.talk{
+  margin: 60px;
+}
+#ab{
+  font-size: 70px;
+}
+#ab ,#dev, #pr{
+  margin-bottom: 6px;
+  margin-top: 7x;  
+  
+}
+#Servi{
+  background-image: linear-gradient( #dcfffa, #F8D6CF);
+  text-align: center;
+  margin-top: 0px;
+  height: 500px;
+  color: black;
+
+}
+#Or{
+  font-size: 70px;
+}
+.web{
+  display: flex;
+  justify-content:space-around;
+  
+}
+.devlop{
+  border: 1px solid #F8D6CF ;
+  background-image: linear-gradient( #dcfffa, #F8D6CF);
+
+  
+}
+.design{
+  
+  border: 1px solid #F8D6CF ;
+  background-image: linear-gradient( #dcfffa, #F8D6CF);
+  
+}
+#Contact{
+  margin: 0px ;
+  background-image: linear-gradient( #dcfffa, rgb(61, 23, 23));
+  height: 200px;
+  text-align: center;
+}
